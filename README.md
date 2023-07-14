@@ -20,7 +20,7 @@ With AWS, DevOps practitioners can leverage cloud-based resources to streamline 
 
 - **S3 (Simple Storage Service):** Amazon S3 is an object storage service that offers industry-leading scalability, data availability, security, and performance. It allows you to store and retrieve any amount of data from anywhere on the web. S3 is commonly used for backup, archiving, content distribution, and data lakes. [Learn more about Amazon S3](https://aws.amazon.com/s3/)
 
-- **IAM (Identity and Access Management): AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely. IAM allows you to create and manage users, groups, roles, and permissions to control who can access what within your AWS environment. [Learn more about IAM](https://aws.amazon.com/iam/)
+- **IAM (Identity and Access Management):** AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely. IAM allows you to create and manage users, groups, roles, and permissions to control who can access what within your AWS environment. [Learn more about IAM](https://aws.amazon.com/iam/)
 
 - **CloudWatch:** Amazon CloudWatch is a monitoring and observability service that collects and tracks metrics, logs, and events from various AWS resources. It provides actionable insights to monitor applications, respond to system-wide performance changes, optimize resource utilization, and get a comprehensive view of your AWS environment. [Learn more about Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
 
