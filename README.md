@@ -54,4 +54,4 @@ With AWS, DevOps practitioners can leverage cloud-based resources to streamline 
 
 - **AWS CloudFormation:** AWS CloudFormation is a service that allows you to define and provision AWS infrastructure resources in a declarative manner using templates. With CloudFormation, you can model your entire infrastructure stack as code, making it easy to manage and replicate infrastructure configurations. [Learn more about AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 
-I hope these additional details and the provided links are helpful in understanding each AWS service better.
+I hope these details and the provided links are helpful in understanding each AWS service better.
